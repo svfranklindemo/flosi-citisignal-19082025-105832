@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/flosi/minerva/:/",
+      "/content/flosi/minerva/configuration:/.helix/config.json",
+      "/content/flosi/minerva/metadata:/metadata.json",
+      "/content/flosi/minerva/configs:/configs.json",
+      "/content/flosi/minerva/configs-stage:/configs-stage.json",
+      "/content/flosi/minerva/configs-dev:/configs-dev.json",
+      "/content/flosi/minerva/redirects:/redirects.json",
+      "/content/flosi/minerva/placeholders:/placeholders.json",
+      "/content/flosi/minerva/products/recommended-products:/products/recommended-products.json",
+      "/content/flosi/minerva/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/flosi/minerva/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/flosi/minerva",
       "/content/dam/citisignal/images/products/"
     ]
 }
